@@ -1,4 +1,4 @@
-# VALENTINES WEBSITE
+# VDAY WEBSITE
 A special interactive Valentine's Day website created with love ❤️
 
 # IMPORTANT NOTE
